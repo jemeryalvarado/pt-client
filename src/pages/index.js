@@ -4,4 +4,4 @@ export { default as TaskDetail } from './TaskDetail';
 export { default as Tasks } from './Tasks';
 export { default as Trash } from './Trash';
 export { default as Users } from './Users';
-export { default as Register } from './Register'; // Ensure Register is exported
+export { default as Register } from './Register';
